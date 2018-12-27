@@ -1,7 +1,7 @@
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
-### See src folder for codes
+### See src folder for codes. READ_ME_SENSOR_FUSION_EKF.pdf file in src has the detailed explanation about the project
 
 In this project you will utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower than the tolerance outlined in the project rubric. 
 
